@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1420305453 source:d:\develpo\cb_project\learncpp\test\main.cpp
+	<iostream>
+	"Node.h"
+	"LinkList.h"
+
+1420221516 d:\develpo\cb_project\learncpp\test\include\node.h
+
+1420304466 source:d:\develpo\cb_project\learncpp\test\src\linklist.cpp
+	<stdio.h>
+	<iostream>
+	"LinkList.h"
+	"Node.h"
+
+1420305516 d:\develpo\cb_project\learncpp\test\include\linklist.h
+	"Node.h"
+
+1420227485 source:d:\develpo\cb_project\learncpp\test\src\node.cpp
+	<stdio.h>
+	"Node.h"
+
