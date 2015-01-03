@@ -11,6 +11,7 @@
 ----------
 
 
-myBlog:[我的博客][1]
+[IntMain()][1]
 
-    [1]: https://intmain.cn/
+
+  [1]: https://intmain.cn/
